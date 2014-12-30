@@ -1,8 +1,6 @@
 NUGET
   remote: https://www.nuget.org/api/v2
   specs:
-    AutoFixture (3.22.0)
-    Castle.Core (3.3.3)
     Fizzler (1.0.0)
       LinqBridge (>= 1.3.0) - >= net20 < net35
     Fizzler.Systems.HtmlAgilityPack (1.0.0)
@@ -11,5 +9,3 @@ NUGET
       LinqBridge (>= 1.3.0) - >= net20 < net35
     HtmlAgilityPack (1.4.6)
     LinqBridge (1.3.0)
-    Moq (4.2.1409.1722)
-    NUnit (2.6.4)
