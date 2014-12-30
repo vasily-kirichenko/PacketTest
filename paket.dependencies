@@ -1,0 +1,14 @@
+source https://www.nuget.org/api/v2
+
+nuget AutoFixture
+nuget Castle.Core
+nuget Moq
+nuget NUnit
+nuget HtmlAgilityPack 1.4.6
+nuget Fizzler.Systems.HtmlAgilityPack
+nuget AutoFixture
+nuget Castle.Core
+nuget Fizzler.Systems.HtmlAgilityPack
+nuget HtmlAgilityPack
+nuget Moq
+nuget NUnit

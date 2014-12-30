@@ -1,0 +1,6 @@
+﻿AutoFixture
+Castle.Core
+Moq
+NUnit
+HtmlAgilityPack
+Fizzler.Systems.HtmlAgilityPack
