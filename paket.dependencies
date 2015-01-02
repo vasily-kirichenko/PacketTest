@@ -1,6 +1,6 @@
 source https://www.nuget.org/api/v2
 
-nuget HtmlAgilityPack 1.4.6
+nuget HtmlAgilityPack
 nuget Fizzler.Systems.HtmlAgilityPack
 
 
